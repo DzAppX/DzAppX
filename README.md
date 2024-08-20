@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to Dz AppX 🚀
 
-<!--
-**DzAppX/DzAppX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dz AppX** is a team of talented Algerian developers dedicated to crafting high-quality web and app solutions. Our expertise spans a range of modern technologies, including Django, React, Next.js, and WordPress. We focus on delivering clean, efficient code and innovative digital experiences tailored to your needs.
 
-Here are some ideas to get you started:
+## What We Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Development:** Custom websites and applications using Django, React, and Next.js.
+- **WordPress Solutions:** Professional WordPress site design and development.
+- **Hosting & Support:** Reliable VPS hosting and ongoing technical support.
+- **Design Services:** Creative and user-friendly designs using Figma.
+
+## Contact Us
+
+**Social Accounts**  
+[Instagram: @dz.appx](https://www.instagram.com/dz.appx)  
+[Facebook: DzAppX](#=https://www.facebook.com/profile.php?id=61558928312411)  
+Location: [Your Location Here]
+
+Feel free to reach out for collaborations or inquiries!
+
+---
+
+© [2024] Dz AppX. All rights reserved.
