@@ -19,4 +19,4 @@ Feel free to reach out for collaborations or inquiries!
 
 ---
 
-© [2024] Dz AppX. All rights reserved.
+© 2024 Dz AppX. All rights reserved.
