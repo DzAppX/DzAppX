@@ -1,6 +1,6 @@
 # Welcome to Dz AppX 🚀
 
-**Dz AppX** is a team of talented Algerian developers dedicated to crafting high-quality web and app solutions. Our expertise spans a range of modern technologies, including Django, React, Next.js, and WordPress. We focus on delivering clean, efficient code and innovative digital experiences tailored to your needs.
+**Dz AppX** is a team of talented Algerian developers dedicated to crafting high-quality web and app solutions. Our expertise spans a range of modern technologies. We focus on delivering clean, efficient code and innovative digital experiences tailored to your needs.
 
 ## What We Do
 
