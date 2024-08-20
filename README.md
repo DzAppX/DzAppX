@@ -14,7 +14,6 @@
 **Social Accounts**  
 [Instagram: @dz.appx](https://www.instagram.com/dz.appx)  
 [Facebook: DzAppX](https://www.facebook.com/profile.php?id=61558928312411)  
-Location: [Your Location Here]
 
 Feel free to reach out for collaborations or inquiries!
 
